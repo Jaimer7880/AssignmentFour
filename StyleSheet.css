@@ -1,0 +1,13 @@
+﻿body {
+   color:blueviolet;
+}
+h1 {
+    background-color:azure;
+    color:cornflowerblue;
+    text-align:center;
+    border-bottom-style:inset;
+    font-family:cursive;
+}
+ErrorMessage {
+    color:red;
+}
